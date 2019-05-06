@@ -1,0 +1,2 @@
+class AddAdminToEvent < ApplicationRecord
+end
